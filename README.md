@@ -1,2 +1,2 @@
-# MoMVerification
-data and tools for MoM verification
+# MoM Verification
+Data and tools for MoM verification
